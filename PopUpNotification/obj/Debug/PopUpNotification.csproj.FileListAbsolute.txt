@@ -1,0 +1,23 @@
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\bin\Debug\PopUpNotification.exe.config
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\bin\Debug\PopUpNotification.exe
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\bin\Debug\PopUpNotification.pdb
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.Form1.resources
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.csproj.GenerateResource.Cache
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.exe
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.pdb
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\bin\Debug\xClasses.dll
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\bin\Debug\xClasses.pdb
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.csproj.CoreCompileInputs.cache
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.csproj.CopyComplete
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\PopUpNotification\obj\Debug\PopUpNotification.csprojAssemblyReference.cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\bin\Debug\PopUpNotification.exe.config
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\obj\Debug\PopUpNotification.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\obj\Debug\PopUpNotification.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\bin\Debug\PopUpNotification.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\bin\Debug\PopUpNotification.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\bin\Debug\xClasses.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\obj\Debug\PopUpNotification.csprojResolveAssemblyReference.cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\obj\Debug\PopUpNotification.Form1.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\obj\Debug\PopUpNotification.Properties.Resources.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Pop-up Notify\PopUpNotification\obj\Debug\PopUpNotification.csproj.GenerateResource.Cache

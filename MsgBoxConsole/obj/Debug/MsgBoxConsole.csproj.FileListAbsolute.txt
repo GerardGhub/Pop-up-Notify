@@ -1,0 +1,6 @@
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\MsgBoxConsole\bin\Debug\MsgBoxConsole.exe.config
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\MsgBoxConsole\bin\Debug\MsgBoxConsole.exe
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\MsgBoxConsole\bin\Debug\MsgBoxConsole.pdb
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\MsgBoxConsole\obj\Debug\MsgBoxConsole.exe
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\MsgBoxConsole\obj\Debug\MsgBoxConsole.pdb
+C:\Users\philip.calugcugan\Desktop\PopUpNotification\MsgBoxConsole\obj\Debug\MsgBoxConsole.csproj.CoreCompileInputs.cache
